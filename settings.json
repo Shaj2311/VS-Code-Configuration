@@ -1,0 +1,68 @@
+{
+  // =======BUILT-IN=======
+  //Editor
+  "editor.mouseWheelZoom": true,
+
+  "editor.stickyScroll.enabled": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSurroundingLines": 5,
+
+  "editor.tabSize": 8,
+  "editor.lineHeight": 1.4,
+
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": false,
+
+
+
+  //Zen Mode
+  "zenMode.showTabs": "none",
+
+
+
+  // =======EXTENSIONS=======
+  
+
+  //Background
+
+  "background.fullscreen": {
+    "images": [
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/autumnForest.png",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/redSunset.png",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/shootingStars.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/blueIsland.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/bridgeMoon.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/greenLandscape.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/nightCity.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/orangeLake.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/pinkMountains.png",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/redderSunset.png"
+    ],
+    "opacity": 0.1,
+    "size": "cover",
+    "position": "center",
+    "interval": 300,
+    "random": true
+  },
+
+
+
+  //Vim
+  "vim.leader": " ",
+
+  "vim.camelCaseMotion.enable": true,
+
+  "vim.highlightedyank.enable": true,
+  "vim.highlightedyank.color": "rgba(150, 120, 250, 0.3)",
+
+  "vim.useCtrlKeys": false,
+
+
+
+"settingsSync.ignoredSettings": [],
+"workbench.colorTheme": "Minimalist Dark Theme",
+}
