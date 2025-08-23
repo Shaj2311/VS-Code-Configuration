@@ -16,7 +16,7 @@ These images were taken from [this](https://www.addictivetips.com/windows-tips/5
 ## Setup
 The following instructions will explain to you how to apply the *exact* same settings and configurations that I use. Of course, you can make as many changes as desired.
 
-* Install all extensions listed in `Extensions.md` (either via the [Visual Studio Marketplace](marketplace.visualstudio.com) or by using VS Code's built-in Extensions tab 
+* Install all extensions listed in `Extensions.md` either via the [Visual Studio Marketplace](https://marketplace.visualstudio.com) or by using VS Code's built-in Extensions tab 
 * Clone this repo to your machine
 * Open `settings.json` in VS Code and copy the content of this repo's `settings.json` into your own `settings.json` file. <br>
    Alternatively, navigate to the location of VS Code's `settings.json` file, and replace it with this repo's `settings.json` file
