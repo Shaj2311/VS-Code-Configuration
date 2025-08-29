@@ -2,10 +2,10 @@
 This repository contains my current settings and configuration for Visual Studio Code.
 
 # Screenshots
-<img width="1919" height="1079" alt="vsCode(2)" src="https://github.com/user-attachments/assets/7ff684f8-513d-4aab-9d96-81b1dabee9c7" />
-<img width="1919" height="1079" alt="vsCode" src="https://github.com/user-attachments/assets/9c8c2c37-d50b-4081-b428-8e68b5c0cf8d" />
-<img width="1919" height="1079" alt="vsCode(1)" src="https://github.com/user-attachments/assets/12e2bd5e-b0d9-496b-8cd7-a203de4207a5" />
-![vsCodeDemo](https://github.com/user-attachments/assets/18de50e5-3ec6-4678-91c6-f30ec377a914)
+![vsCodeImg](assets/vsCode.png)
+![vsCodeImg1](assets/vsCode1.png)
+![vsCodeImg2](assets/vsCode2.png)
+![demoGif](assets/vsCodeDemo.gif)
 
 # Repository Overview
 
