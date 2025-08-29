@@ -1,6 +1,14 @@
 # VS Code Configuration
 This repository contains my current settings and configuration for Visual Studio Code.
 
+# Screenshots
+<img width="1919" height="1079" alt="vsCode(2)" src="https://github.com/user-attachments/assets/7ff684f8-513d-4aab-9d96-81b1dabee9c7" />
+<img width="1919" height="1079" alt="vsCode" src="https://github.com/user-attachments/assets/9c8c2c37-d50b-4081-b428-8e68b5c0cf8d" />
+<img width="1919" height="1079" alt="vsCode(1)" src="https://github.com/user-attachments/assets/12e2bd5e-b0d9-496b-8cd7-a203de4207a5" />
+![vsCodeDemo](https://github.com/user-attachments/assets/18de50e5-3ec6-4678-91c6-f30ec377a914)
+
+# Repository Overview
+
 ## Settings
 All the settings I have changed are present in the `settings.json` file. These include native VS Code settings as well as settings for the extensions I have installed.
 
@@ -13,7 +21,7 @@ These images were taken from [this](https://www.addictivetips.com/windows-tips/5
 
 <br>
 
-## Setup
+# Setup
 The following instructions will explain to you how to apply the *exact* same settings and configurations that I use. Of course, you can make as many changes as desired.
 
 * Install all extensions listed in `Extensions.md` either via the [Visual Studio Marketplace](https://marketplace.visualstudio.com) or by using VS Code's built-in Extensions tab 
