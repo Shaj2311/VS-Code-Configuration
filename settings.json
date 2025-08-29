@@ -22,7 +22,11 @@
   //Zen Mode
   "zenMode.showTabs": "none",
 
+  //Theme
+"workbench.colorTheme": "Minimalist Dark Theme",
 
+  //Ignored settings
+"settingsSync.ignoredSettings": [],
 
   // =======EXTENSIONS=======
   
@@ -31,7 +35,16 @@
 
   "background.fullscreen": {
     "images": [
-        //Images Here
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/autumnForest.png",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/redSunset.png",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/shootingStars.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/blueIsland.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/bridgeMoon.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/greenLandscape.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/nightCity.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/orangeLake.jpg",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/pinkMountains.png",
+      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/redderSunset.png"
     ],
     "opacity": 0.1,
     "size": "cover",
@@ -54,6 +67,4 @@
 
 
 
-"settingsSync.ignoredSettings": [],
-"workbench.colorTheme": "Minimalist Dark Theme",
 }
