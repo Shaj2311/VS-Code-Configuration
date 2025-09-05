@@ -28,7 +28,7 @@ The following instructions will explain to you how to apply the *exact* same set
 * Clone this repo to your machine
 * Open `settings.json` in VS Code and copy the content of this repo's `settings.json` into your own `settings.json` file. <br>
    Alternatively, navigate to the location of VS Code's `settings.json` file, and replace it with this repo's `settings.json` file
-* (Optional) Move all images from the `background` folder to a suitable location
+* (Optional) Move all images from the `backgrounds` folder to a suitable location
 * In `settings.json`, navigate to the following piece of code: 
 ```
  "background.fullscreen": {
