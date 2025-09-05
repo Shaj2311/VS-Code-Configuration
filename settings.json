@@ -35,16 +35,7 @@
 
   "background.fullscreen": {
     "images": [
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/autumnForest.png",
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/redSunset.png",
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/shootingStars.jpg",
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/blueIsland.jpg",
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/bridgeMoon.jpg",
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/greenLandscape.jpg",
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/nightCity.jpg",
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/orangeLake.jpg",
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/pinkMountains.png",
-      "file:///C:/Users/Haider%20Ali/Desktop/AndroidStudioBackgrounds/redderSunset.png"
+        //Images Here
     ],
     "opacity": 0.1,
     "size": "cover",
