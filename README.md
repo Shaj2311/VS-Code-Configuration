@@ -66,3 +66,5 @@ For example,
   },
 ```
 And that's it! You have successfully applied this exact configuration to your own VS Code Editor :)
+
+Note: If some extensions don't work properly, make sure that your current workspace is trusted by vsCode. Untrusted workspaces prevent extensions from functioning properly. 
